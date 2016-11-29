@@ -59,4 +59,5 @@ And to all [contributors](https://github.com/Mikhus/canvas-gauges/graphs/contrib
 
 ## License
 
-This code is subject to [MIT](https://rawgit.com/Mikhus/canvas-gauges/master/LICENSE) license.
+This code is subject to [MIT Working collaboration with akramawardhana.](https://rawgit.com/Mikhus/canvas-gauges/master/LICENSE) license.
+
